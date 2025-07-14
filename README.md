@@ -9,6 +9,9 @@ This project is a dynamic website for a sports team to sell their merchandise
 - HTML & CSS
 - React.js
 
+# CMS 🎨
+- Wordpress
+
 ## Back End 🗃️
 - Node.js / Django
 - MongoDB
