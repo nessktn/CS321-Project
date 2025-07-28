@@ -1,28 +1,29 @@
-# CS321-Project 🛠️
-CS321 (Software Engineering) Project
-
 # About 📄
-This project is a dynamic website for a sports team to sell their merchandise
+This is the repository for an online merchandise store for the Arsenal FC sports team. It is a project built for the CS321 (Software Engineering) subject
+undertaken by third year computer science students in their second semester.
 
-# Technologies 💻
-## Front End 🖼️
+# Project Details
+
+## Technologies 💻
+### Front End 🖼️
 - HTML & CSS
 - React.js
 
-# CMS 🎨
-- Wordpress
+### CMS 🎨
+- Wordpress (Subject to change)
+- Strapi
 
-## Back End 🗃️
+### Back End 🗃️
 - Node.js / Django
 - MongoDB
 
-## Version Control 🔁
+### Version Control 🔁
 - Git / Github
+        
+### Project Management 🗓️
+- ClickUp
 
-## Project Management 🗓️
-- Notion or Trello
-- Gantt Chart
+### Dev team 👨‍💻
+- Johannes Kutan (Group Leader, Back-end development)
+- Susan Atsimb (Front-end development)
 
-## Dev team 👨‍💻
-- Johannes Kutan
-- Susan Atsimb
